@@ -1,2 +1,3 @@
-Hello commit 1
-this is commit 2
+#!/bash/bin
+
+echo Hello World
